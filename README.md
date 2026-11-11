@@ -1,0 +1,2 @@
+# adhochint
+Playable Riddle Reward
